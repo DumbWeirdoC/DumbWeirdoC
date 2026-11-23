@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,13,24&height=220&section=header&text=Ario%20%7C%20DumbWeirdoC&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Systems%20%26%20Network%20Enthusiast%20%E2%80%A2%20Open-Source%20Builder&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,13,24&height=220&section=header&text=Ario%20%7C%20DumbWeirdoC&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Systems%20and%20Network%20Enthusiast%20%E2%80%A2%20Open-Source%20Builder&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/DumbWeirdoC">
