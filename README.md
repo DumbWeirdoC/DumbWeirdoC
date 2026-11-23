@@ -22,18 +22,14 @@
 
 ```yaml
 identity:
-  name: Ario
-  handle: DumbWeirdoC
   focus: High-Performance Networking, Privacy-First Software, Async Tooling
   philosophy: "Fast, minimal, self-contained, zero-bloat."
   current_stack: [Python 3, FastAPI, Asyncio, httpx, Vanilla Web Technologies]
 ```
 
-- 🔭 **What I Do**: Design and develop robust local applications, concurrency engines, and developer tools with zero third-party telemetry.
-- 💡 **Core Values**: Complete user privacy, offline-first reliability, and clean architectures that require no complex build steps.
-- ⚡ **Recent Releases**: Built **NetPulse** (async proxy & server URL latency inspector) and **LocalDocKit** (offline PDF & image manipulation suite).
-- 💬 **Ask Me About**: Asynchronous I/O, network protocols, Python performance optimization, and local-first software.
-
+-  **What I Do**: Design and develop robust local applications, concurrency engines, and developer tools with zero third-party telemetry.
+-  **Core Values**: Complete user privacy, offline-first reliability, and clean architectures that require no complex build steps.
+-  **Recent Releases**: Built **NetPulse** (async proxy & server URL latency inspector) and **LocalDocKit** (offline PDF & image manipulation suite).
 ---
 
 ## 🛠️ Tech Stack & Arsenal
